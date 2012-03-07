@@ -1,7 +1,7 @@
 //SleepCycle -- A rtcwake interface written in C++, soon to include GUI functionality.
 //Version 0.1
 //Must run as root!
-//Spencer Smith
+//rsmitty1025@gmail.com
 //3/6/2012
 
 #include <iostream>
